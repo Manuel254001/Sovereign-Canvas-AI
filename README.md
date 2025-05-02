@@ -1,4 +1,4 @@
-`# Sovereign Canvas AI`
+# Sovereign Canvas AI
 
 ## Overview
 
@@ -129,5 +129,5 @@ Built with ❤️ during the LUKSO Hackathon 2025.
 
 "Sovereign Canvas AI isn't just an app. It's a declaration of digital independence."
 
-`# God Bless Sovereign Canvas AI`
+# God Bless Sovereign Canvas AI
 
