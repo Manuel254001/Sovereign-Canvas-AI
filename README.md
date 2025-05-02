@@ -8,21 +8,40 @@ Built on the principles of digital self-sovereignty, this project aims to break 
 
 ## Features
 
-### ✨ AI-Powered Curation: A smart client-side module organizes and personalizes asset display based on metadata.
+### AI-Powered Curation: A smart client-side module organizes and personalizes asset display based on metadata.
 
-### 💼 LSP Integration: Fetches and displays LSP4 metadata and LSP8 digital assets from the creator's Universal Profile.
+### LSP Integration: Fetches and displays LSP4 metadata and LSP8 digital assets from the creator's Universal Profile.
 
-### 🌎 Self-Sovereign Identity: Runs entirely within the LUKSO ecosystem using @lukso/up-provider and The Grid.
+### Self-Sovereign Identity: Runs entirely within the LUKSO ecosystem using @lukso/up-provider and The Grid.
 
-### ✨ Token-Gated Access: Placeholder logic for checking LSP7 token balances for unlocking exclusive content.
+### Token-Gated Access: Placeholder logic for checking LSP7 token balances for unlocking exclusive content.
 
-### 💸 Monetization Ready: Buy/Unlock placeholders simulate LSP8 sales and fan support.
+### Monetization Ready: Buy/Unlock placeholders simulate LSP8 sales and fan support.
 
-### 📆 Grid Simulation: Tailwind-powered layout visually mimics The Grid's layout system.
+### Grid Simulation: Tailwind-powered layout visually mimics The Grid's layout system.
 
-# Project Structure
 
-<pre> ## 2. Project Structure ```bash 1. sovereign-canvas-ai/ 2. ├── public/ 3. │ └── index.html # Entry HTML 4. ├── src/ 5. │ ├── components/ 6. │ │ └── AssetCard.jsx # Component to display each asset 7. │ ├── data/ 8. │ │ └── mockAssets.js # Mock asset data (LSP-like) 9. │ ├── App.jsx # Main app logic 10. │ └── main.jsx # Entry point 11. ├── tailwind.config.js # Tailwind CSS configuration 12. ├── vite.config.js # Vite bundler config 13. ├── package.json # Project metadata & dependencies 14. ├── README.md # Project overview and instructions 15. └── ARCHITECTURE.md # System design & component breakdown ``` </pre>
+## Project Structure
+
+Below is the file and folder structure of the Sovereign Canvas AI project:
+
+sovereign-canvas-ai/
+├── public/
+│   └── index.html        # Entry HTML file
+├── src/
+│   ├── components/
+│   │   └── AssetCard.jsx # Component to display each asset
+│   ├── data/
+│   │   └── mockAssets.js # Mock asset data (LSP-like)
+│   ├── App.jsx           # Main app logic
+│   └── main.jsx          # Entry point for React
+├── tailwind.config.js    # Tailwind CSS configuration
+├── vite.config.js        # Vite bundler configuration
+├── package.json          # Project metadata and dependencies
+├── README.md             # Project overview and instructions
+└── ARCHITECTURE.md       # System design and component breakdown
+
+
 
 # Getting Started
 
