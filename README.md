@@ -22,21 +22,7 @@ Built on the principles of digital self-sovereignty, this project aims to break 
 
 # Project Structure
 
-`sovereign-canvas-ai/
-├── public/
-│   └── index.html              # Entry HTML
-├── src/
-│   ├── components/
-│   │   └── AssetCard.jsx       # Component to display each asset
-│   ├── data/
-│   │   └── mockAssets.js       # Mock asset data (LSP-like)
-│   ├── App.jsx                 # Main app logic
-│   └── main.jsx                # Entry point
-├── tailwind.config.js         # Tailwind CSS configuration
-├── vite.config.js             # Vite bundler config
-├── package.json               # Project metadata & dependencies
-├── README.md                  # Project overview and instructions
-└── ARCHITECTURE.md            # System design & component breakdown`
+<pre> ## 2. Project Structure ```bash 1. sovereign-canvas-ai/ 2. ├── public/ 3. │ └── index.html # Entry HTML 4. ├── src/ 5. │ ├── components/ 6. │ │ └── AssetCard.jsx # Component to display each asset 7. │ ├── data/ 8. │ │ └── mockAssets.js # Mock asset data (LSP-like) 9. │ ├── App.jsx # Main app logic 10. │ └── main.jsx # Entry point 11. ├── tailwind.config.js # Tailwind CSS configuration 12. ├── vite.config.js # Vite bundler config 13. ├── package.json # Project metadata & dependencies 14. ├── README.md # Project overview and instructions 15. └── ARCHITECTURE.md # System design & component breakdown ``` </pre>
 
 # Getting Started
 
