@@ -124,17 +124,17 @@ Demonstrates a possible interface for visitors to provide direct financial suppo
 This screenshot shows a simple way for fans to send tokens directly to the creator's Universal Profile.
 
 
-License
+# License
 
 MIT License
 
-Acknowledgements
+# Acknowledgements
 
 LUKSO's Universal Profiles, LSP standards, and The Grid.
 
-Inspired by a mission to break platform lock-in and build a creator-first future.
+### Inspired by a mission to break platform lock-in and build a creator-first future.
 
-Built with ❤️ during the LUKSO Hackathon 2025.
+#### Built with ❤️ during the LUKSO Hackathon 2025.
 
 "Sovereign Canvas AI isn't just an app. It's a declaration of digital independence."
 
