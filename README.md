@@ -77,40 +77,41 @@ Interact with the placeholders for purchase or unlocking gated content.
 
 # Demo Screenshots
 ## Sovereign Canvas AI Logo
-![Sovereign Canvas AI Logo](src/Components/Screenshots/Logo.png)
+![Sovereign Canvas AI Logo](sovereign-canvas-ai/src/Components/Screenshots/Logo.png)
 The official logo representing the Sovereign Canvas AI project, visually identifying the mini-app.
 
 ## Account Connection
-![Account Connection Screenshot](src/Components/Screenshots/Accountconnect.png) 
+![Account Connection Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Accountconnect.png) 
 Demonstrates the process of connecting a LUKSO Universal Profile to the mini-app via the @lukso/up-provider.
 This image shows the initial step where a user links their decentralized identity to the mini-app.
 
 ## Connected Account
-![Connected Account Screenshot](src/Components/Screenshots/Connectedaccount.png) 
+![Connected Account Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Connectedaccount.png) 
 Shows the mini-app successfully connected to the user's Universal Profile, displaying basic profile information.
 This confirms the successful integration, indicating the mini-app is ready to interact with the user's profile and assets.
 
 ## Creative Assets Overview
-![Creative Assets Screenshot](src/Components/Screenshots/Creativeassets.png) Provides a view of the creator's digital assets fetched from their Universal Profile.
+![Creative Assets Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Creativeassets.png) Provides a view of the creator's digital assets fetched from their Universal Profile.
 This screenshot gives a glimpse into the creator's full collection of owned digital works displayed within the app.
 
 ## NFT Showcase 
-![NFT Showcase Screenshot](src/Components/Screenshots/Nfts.png) 
+![NFT Showcase Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Nfts.png) 
 Highlights the display of individual LSP8 NFT assets within the mini-app's interface on The Grid.
 This image specifically focuses on how unique digital collectibles are presented to visitors.
 
 AI-Powered Curation
-![Recommendations Content Screenshot](src/Components/Screenshots/Recomendationscontent.png)
+![Recommendations Content Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Recomendationscontent.png)
 Illustrates the concept of the AI-like logic curating and ordering content for a personalized view (placeholder visualization).
 This visual suggests how the AI tailors the displayed content based on different factors for each viewer.
 
 Subscriptions (Placeholder)
-![Subscriptions Placeholder Screenshot](src/Components/Screenshots/Subscriptions.png)
+![Subscriptions Placeholder Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Subscriptions.png)
 Shows a potential interface for offering subscription options, possibly tied to LSP7 token ownership.
 This image depicts a feature allowing creators to offer recurring access or benefits to their audience.
 
 Direct Support (Placeholder)
-![Direct Support Placeholder Screenshot](src/Components/Screenshots/Directsupport.png) Demonstrates a possible interface for visitors to provide direct financial support to the creator via token transfers.
+![Direct Support Placeholder Screenshot](sovereign-canvas-ai/src/Components/Screenshots/Directsupport.png)
+Demonstrates a possible interface for visitors to provide direct financial support to the creator via token transfers.
 This screenshot shows a simple way for fans to send tokens directly to the creator's Universal Profile.
 
 
