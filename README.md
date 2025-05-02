@@ -36,7 +36,7 @@ Built on the principles of digital self-sovereignty, this project aims to break 
 ├── vite.config.js             # Vite bundler config
 ├── package.json               # Project metadata & dependencies
 ├── README.md                  # Project overview and instructions
-└── ARCHITECTURE.md            # System design & component breakdown```
+└── ARCHITECTURE.md            # System design & component breakdown`
 
 # Getting Started
 
