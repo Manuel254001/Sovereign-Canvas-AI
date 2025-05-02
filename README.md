@@ -1,4 +1,4 @@
-# Sovereign Canvas AI
+`# Sovereign Canvas AI`
 
 ## Overview
 
