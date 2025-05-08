@@ -24,7 +24,7 @@ Built on the principles of digital self-sovereignty, this project aims to break 
 ## Project Structure
 
 Below is the file and folder structure of the Sovereign Canvas AI project:
-
+'''
 sovereign-canvas-ai/
 ├── public/
 │   └── index.html        # Entry HTML file
@@ -40,7 +40,7 @@ sovereign-canvas-ai/
 ├── package.json          # Project metadata and dependencies
 ├── README.md             # Project overview and instructions
 └── ARCHITECTURE.md       # System design and component breakdown
-
+ '''
 
 
 # Getting Started
